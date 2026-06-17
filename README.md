@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Akanksha 👋
 
-<!--
-**akkusochill/akkusochill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Sophomore
+💻 Interested in Software Development, AI/ML, and Open Source  
 
-Here are some ideas to get you started:
+## 🔨 Current Projects
+- ✨ Hand-Particle Universe (Python, OpenCV, MediaPipe, Three.js)
+- 🎵 Personal Music App for macOS (SwiftUI + Python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:** Python, C, C++, JavaScript  
+**Tools:** Git, GitHub, VS Code, Vite  
+**Libraries:** OpenCV, MediaPipe, NumPy, Pandas, Matplotlib
+
+
+## 📫 Connect
+- GitHub: https://github.com/akkusochill
+- LinkedIn: www.linkedin.com/in/akanksha-singh-ab1b9b281
