@@ -10,7 +10,7 @@ Interested in Software Development, AI/ML, and Open Source
 ## Tech Stack
 **Languages:** Python, C, C++, JavaScript  
 **Tools:** Git, GitHub, VS Code, Vite  
-**Libraries:** OpenCV, MediaPipe, NumPy, Pandas, Matplotlib
+**Libraries:** OpenCV, MediaPipe, NumPy, Pandas, Matplotlib, Streamlit
 
 
 ## Connect
